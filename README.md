@@ -23,9 +23,7 @@ The data used comes from a variety of sources.  We retrieved player id mappings 
 4. batting_pca_cluster  --> visualization data showing the principal components and cluster assignments for each player by season
 5. batting_stats --> visualization data showing the player stats and similarity rankings across different similarity measures by season
 
-**********************************************************
-INSTALLATION
-**********************************************************
+## INSTALLATION
 Installation is simple.  Simply save or clone the "code" folder to a local directory and follow the execution steps.  You can clone the data from this repo: https://github.gatech.edu/jwelt3/team63-MLB-Player-Similarity. Please ensure you have the following dependencies installed:
 
 Python 3.6+
