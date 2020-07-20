@@ -25,7 +25,6 @@ wheels/
 *.egg
 MANIFEST
 conf/
-README.md
 images/
 data/
 
