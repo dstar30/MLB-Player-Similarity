@@ -1,0 +1,1 @@
+select * from baseball.dbo.batting_final where season >= 2017
