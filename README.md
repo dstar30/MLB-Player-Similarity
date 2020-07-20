@@ -1,6 +1,6 @@
-CSE6242 Project - MLB Player Similarity
+# CSE6242 Project - MLB Player Similarity
 
-#DESCRIPTION
+## DESCRIPTION
 The objective of this project is to create an MLB player similarity algorithm and generate an interactive visualzation of the results.  This repository contains the code necessary to acquire data, conduct dimensonality reduction on player statistics using Principal Components Analysis, cluster players using k-means, and create similarity rankings using three different measures: Euclidean Distance, Manhattan Distance, and Cosine Similarity.  Running the code will result in a new /data folder containing the datasets required to build a visulation: batting_pca_cluster.csv and batting_stats.csv.  
 
 ------------------
