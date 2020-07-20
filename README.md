@@ -43,9 +43,7 @@ Tableau Desktop Professional 2019.2+ (costs $)
 Tableau Public Desktop App 2019.3+ (free and available to download at: https://public.tableau.com/en-us/s/download)
 
 
-**********************************************************
-EXECUTION
-**********************************************************
+## EXECUTION
 To begin, the code folder does not contain any data, but you can re-create the datasets needed by running the following code.  Running this code will create a new sub-folder called "data" that contains a csv representing each dataset.
 
 1. Run "code\_1_get_player_data.R" to create players.csv
@@ -58,7 +56,5 @@ Once those three datasets have been created, you can run the below script which 
 
 At this point, all of the datasets have been created and you can begin building or modifying visualizations.  If using Tableau, you can use the MLB-PlayerComparison.twbx workbook as a starting point.  You can also download the workbook directly from Tableau Public.  You are also free to use your preferred tools and make modifications to any of the code.
 
-**********************************************************
-DEMO VIDEO
-**********************************************************
+## DEMO VIDEO
 https://youtu.be/jr6YzKwa-ww
